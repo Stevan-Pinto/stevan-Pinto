@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://stevan-pinto.netlfiy.app](https://stevan-pinto.netlfiy.app)
+- 👨‍💻 All of my projects are available at [https://stevan-pinto.netlify.app](https://stevan-pinto.netlify.app)
 
 - 📫 How to reach me   **stevanpinto356@gmail.com**
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/).
