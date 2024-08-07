@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://stevan-pinto.netlify.app](https://stevan-pinto.netlify.app)
 
-- 📫 How to reach me   **stevanpinto356@gmail.com**
+- 📫 How to reach me  **stevanpinto356@gmail.com**
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/).
   
 
